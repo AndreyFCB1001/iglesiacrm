@@ -1,0 +1,80 @@
+/*body{
+    background: url(../ImgICRM/FONDOicrm001.jpg);
+    background-repeat: no-repeat ;
+    color: rgb(37, 16, 23);
+    background-attachment: fixed;
+    background-position: center;
+    position: absolute;
+    background-color: rgba(216, 10, 10, 0.281);
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+}
+
+
+
+table
+{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(252, 0, 147);
+}
+.lider-integrantes
+{
+    color: red;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+td
+{
+    border: 5px outset rgb(204, 17, 164);  Borde tabla
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+summary
+{
+    padding-top: 20px;
+    font-size:20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3
+{
+    font-size: 250%;
+}
+p{
+    font-family:'Courier New', Courier, monospace;
+}
+
+.logofoter001{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.dereservado
+{
+text-align: left;
+font-size: 2rem;
+justify-content: flex-start;
+}
+*/
+
+
+
+
+
+
+
+/*
+ejemplo de sintaxis---------    border: 2px dotted rgb(204, 17, 164);
+dotted---->  separados por puntos
+solid----->  borde continuo
+inset
+outset
+ridg
+dashed
+*/
